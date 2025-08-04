@@ -1,13 +1,8 @@
-export default function HomePage() {
+export default function Page() {
   return (
-    <main style={{
-      minHeight: '100vh',
-      backgroundColor: '#f9f9f9',
-      fontFamily: 'Arial, sans-serif',
-      padding: '2rem'
-    }}>
-      <h1 style={{ fontSize: '2rem', color: '#333' }}>Willkommen bei StudyGPT 🎓</h1>
-      <p>Dein smarter Lernplaner mit KI-Unterstützung!</p>
+    <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
+      <h1>StudyGPT</h1>
+      <p>Deine KI‑Web‑App: Lernplan & Karteikarten in Sekunden</p>
     </main>
-  );
+  )
 }

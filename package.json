@@ -1,6 +1,7 @@
 
 {
   "name": "studygpt",
+  "homepage": "https://SuppeHyperon.github.io/StudyGPT-iPad-MVP/"
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
